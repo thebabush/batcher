@@ -2,7 +2,7 @@
 Create a bat file with an embedded binary.
 Such binary will be extracted at runtime and deleted after the execution.
 
-* Note: This script except to be run in the same directory of the BAT and binary file *
+* Note: This script expect to be run in the same directory of the BAT and binary file. *
 
 Tested on Win7 x86
 
